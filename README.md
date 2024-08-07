@@ -88,20 +88,9 @@ Feel free to explore and use these commands!
 
 
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
-
-
-   <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
-
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
-
----
 
 <a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
-
----
 
 ## ❤️‍🩹 Special Thanks to
 * [`vihangayt0`](https://github.com/vihangayt0/)
